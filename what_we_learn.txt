@@ -1,0 +1,19 @@
+css
+display : inine,block,inline-block
+position : static,ralative,absolute
+
+# centering things
+1: -text-align : center # only works with full length block or inline element
+2:- if not full length block or inline element then use
+margin : 0 auto 0 auto;
+
+contact to my mail :- <a class="btn" href="mailto:gbeast134@gmail.com">CONTACT ME</a>
+
+1 em = 16px; 100% = 16px;
+px is static in nature but % and em dynamic in nature
+
+hr{
+border : dotted #ret564 6px;
+border-bottom : none
+width : 4%;
+}
